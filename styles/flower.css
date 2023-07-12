@@ -1,0 +1,10 @@
+/*common shared style*/
+body {
+    font-family: "Lato";
+}
+
+.text-primary {
+    /*this color is used multiple time in the same site, so considering it the site's primary text color*/
+    color: #E55473;
+}
+
