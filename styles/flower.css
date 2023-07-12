@@ -155,6 +155,30 @@ body {
     margin:0px 605px 48px 604px;
 }
 
+.form{
+    display:block;
+    margin:auto;
+    border: none;
+    padding: 18px 350px 18px 30px;
+    color:#757575;
+    background: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    border-radius: 5px;
+}
+
+.submit{
+    padding:20px 43px 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+}
+
 /*footer styles*/
 
 footer{
