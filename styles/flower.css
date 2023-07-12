@@ -8,3 +8,46 @@ body {
     color: #E55473;
 }
 
+/*banner related style*/
+.banner{
+
+    background:rgba(229, 84, 115, 0.10);
+    display:flex;                       /*image next line theke pashe anlam
+    align-items: center;                /*vertical align*/
+    justify-content: space-between;     /*banner content ar image taar moddhe space between dilam */
+}
+
+
+.banner-title{
+    width: 708px;
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin:197px 97px 32px 240px;
+}
+
+.banner-para{
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin:0px 171px 32px 240px;
+}
+
+.shop-now{
+    margin:0px 628px 147px 240px;
+    padding:20px 43px 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+
+}
+
+.BigPinkFlowers{
+    margin:50px 240px 0px 0px;
+}
